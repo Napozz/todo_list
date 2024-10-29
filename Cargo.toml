@@ -1,0 +1,9 @@
+[package]
+name = "todo_list"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = "0.13.1"
+serde = "1.0.214"
+uuid = "1.11.0"
